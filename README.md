@@ -1,6 +1,6 @@
 How to use this dummy
 1. Buat folder anda sendiri, kemudian buka vscode pada bagian terminal
-2. Salin dan jalankan code berikut pada terminal git clone 
+2. Salin dan jalankan code berikut git clone https://github.com/arknsa/dummy_uas_nlp.git pada terminal
 3. Download elasticsearch di https://www.elastic.co/downloads/elasticsearch
 4. Extract elasticsearch
 5. Jalankan atau buka elasticsearch\bin\elasticsearch.bat atau elasticsearch berbentuk windows batch file didalam bin
